@@ -1,0 +1,2 @@
+.spin{-webkit-animation:spin 1s linear infinite;animation:spin 1s linear infinite;display:inline-block;font-size:20px}@-webkit-keyframes spin{to{-webkit-transform:rotate(1turn);transform:rotate(1turn)}}@keyframes spin{to{-webkit-transform:rotate(1turn);transform:rotate(1turn)}}
+/*# sourceMappingURL=main.a9f7c95c.css.map*/
